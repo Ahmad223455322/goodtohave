@@ -7,7 +7,7 @@ long_description = "na"
 
 setuptools.setup(
     name='Ahmadsfunktioner',
-    version='0.0.4',
+    version='0.0.2',
     author='Ahmad Zarzar',
     author_email='ahmadzrzr97@gmail.com',
     description='Good to have things',
